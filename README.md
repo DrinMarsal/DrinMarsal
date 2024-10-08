@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drin Marsal Albari</h1>
-<h3 align="center">Informatics Engineering student at Riau University. Mastering algorithms and the basics of programming languages ​​such as Kotlin, Java, JavaScript, PHP and Python. I started getting interested in mobile development in college, mastering HTML, CSS, and JavaScript, PHP and NodeJS. Deepening my front-end knowledge with Java and Kotlin. Lastly, I am studying Mobile Development at Bangkit Academy: Android Learning Path.</h3>
+<h3 align="center">Informatics Engineering student at Riau University. Mastering algorithms and the basics of programming languages ​​such as Kotlin, Java, JavaScript and PHP. I started getting interested in mobile development in college, mastering HTML, CSS, and JavaScript. Deepening my front-end knowledge with Java and Kotlin. Lastly, I am studying Mobile Development at Bangkit Academy: Android Learning Path.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
